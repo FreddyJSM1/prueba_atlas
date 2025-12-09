@@ -132,7 +132,7 @@ SHOW DATABASES;
 ```
 o 
 ```
-USE tienda_etl;
+USE nueva_tienda;
 SHOW TABLES;
 ```
 ## Creaccion de API
